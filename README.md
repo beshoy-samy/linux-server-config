@@ -1,10 +1,10 @@
 # linux server configurations for [Catalog project](https://github.com/beshoy-samy/catalog-web-nd)
 
 ## Server Details
-IP address: 35.188.85.58
-SSH Port: 2200
-Username: grader
-URL: http://35.188.85.58/
+- IP address: 35.188.85.58
+- SSH Port: 2200
+- Username: grader
+- URL: http://35.188.85.58/
 
 ## Installed softwares
 - Apache2
